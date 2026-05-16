@@ -21,6 +21,7 @@ The main goal of this repository is to improve my Java skills, strengthen proble
 - Strings
 - Methods
 - Constructors
+- corejava
 
 ### Object Oriented Programming (OOP)
 - Classes and Objects
